@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Sourav 😀
+### A passionate fullStack developer from Kochi, India
 
 - 🌱 I’m currently learning JavaScript, Nodejs, React, Mongodb and Postgress
 - 👯 I’m looking to collaborate on Web Applications, MERN Stack, Node.js Backend Development
