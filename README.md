@@ -10,6 +10,7 @@
 
 ### Hi 👋, I'm Sourav 😀
 ### A passionate fullStack developer from Kochi, India
+### 🔍 I'm a self-taught developer who believes in the power of projects. My GitHub is a treasure trove of real-world problems solved with elegant code
 
 # 💫 About Me:
 <br>- 🧐 I’m always expanding my knowledge in: JavaScript, Nodejs, React, Mongodb and Postgress<br>- 👯 I’m looking to collaborate on Web Applications, MERN Stack, Node.js Backend Development<br>- 💬 Ask me about Javascript, NodeJs, ExpressJs, React, MongoDB & PostgresSQL
