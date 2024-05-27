@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 <br>- 🧐 I’m always expanding my knowledge in: JavaScript, Nodejs, React, Mongodb and Postgress<br>- 👯 I’m looking to collaborate on Web Applications, MERN Stack, Node.js Backend Development<br>- 💬 Ask me about Javascript, NodeJs, ExpressJs, React, MongoDB & PostgresSQL
-<br>- 📫 How to reach me: souravwebdev005@gmail.com
+<br>- 📫 How to reach me: souravwebdev005@+gitgmail.com
 <br>-⚡ Fun fact: The average person will spend about 2 weeks of their life waiting for a webpage to load 😥
 
 
