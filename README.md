@@ -9,7 +9,7 @@
 -->
 
 ### Hi 👋, I'm Sourav 😀
-### A passionate fullStack developer from Kochi, India
+### A passionate MERN stack developer from Kochi, India
 ### 🔍 I'm a self-taught developer who believes in the power of projects. My GitHub is a treasure trove of real-world problems solved with elegant code
 
 # 💫 About Me:
